@@ -40,11 +40,9 @@ This project allows users to create notes, organize them by priority level, and 
 
 ## 📸 Screenshots
 
-```md
 ![Home Page](images/home.png)
 
 ![Form Page](images/form.png)
-```
 
 ---
 
